@@ -1,0 +1,22 @@
+{
+  "contact": {
+    "label": "contact",
+    "header": "Message Me",
+    "body": "If you want to contact me, there are a variety of ways to do so.",
+    "timestamp": "2017-10-08T22:05:22.335Z",
+    "content": [
+      {
+        "label": "E-Mail",
+        "value": "cowglow@gmail.com"
+      },
+      {
+        "label": "Telephone",
+        "value": "(+49) 157 812 71185"
+      },
+      {
+        "label": "Address",
+        "value": "Meckenhausen, Hilpoltstein, 91161"
+      }
+    ]
+  }
+}

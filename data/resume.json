@@ -1,0 +1,40 @@
+{
+  "resume": {
+    "label": "Resume",
+    "header": "My Resume",
+    "timestamp": "2017-10-08T22:05:22.335Z",
+    "employment": [
+      {
+        "label": "Programmer",
+        "dates_employed": "2018 - 2019",
+        "body": "Mercenary PHP coder. Focusing on clean architecture plugins and libraries; becoming increasingly familiar with CI/CD and taking an interest in ally.js. This is the first all German team that I've joined."
+      },
+      {
+        "label": "Multimedia Specialist",
+        "dates_employed": "2013 - 2017",
+        "body": "Responsible for capturing footage, managing media assets, and editing video products for the Joint Multinational Readiness Center (JMRC)"
+      }
+    ],
+    "education": [
+      {
+        "label": "Los Angeles Film School",
+        "dates_educated": "2010 - 2012",
+        "body": "Member of the Sound Guild & Producers Guild"
+      },
+      {
+        "label": "Cal Arts Institute",
+        "dates_educated": "2000-2001",
+        "body": "Studied Graphic Design"
+      },
+      {
+        "label": "Downtown Magnet High Schools",
+        "dates_educated": "1996-1999",
+        "body": "Electronic Information Magnet High School"
+      }
+    ],
+    "callback": {
+      "action": "downloads/Philip_Saa-2018CV.pdf",
+      "message": "Download PDF"
+    }
+  }
+}

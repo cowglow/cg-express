@@ -1,0 +1,12 @@
+{
+  "intro": {
+    "label": "Intro",
+    "header": "Hello! - JSON",
+    "body": "My name is Philip Saa, I'm an American Filmmaker living and working in Germany. My interests range from filmmaking to music theory. I am experienced in a variety of creative multimedia disciplines.",
+    "timestamp": "2017-10-08T22:05:22.335Z",
+    "callback": {
+      "action": "sectionAbout",
+      "message": "Learn more"
+    }
+  }
+}

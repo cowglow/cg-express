@@ -1,0 +1,25 @@
+{
+  "services": {
+    "label": "services",
+    "header": "Hire me!",
+    "body": "I would like to create content for you.",
+    "timestamp": "2017-10-08T22:05:22.335Z",
+    "content": [
+      {
+        "label": "01.",
+        "title": "Development",
+        "description": "Let me map a strategy for execution. I like to share strategies that have worked and what I've learned from them."
+      },
+      {
+        "label": "02.",
+        "title": "Content Creation",
+        "description": "Let me create a video product any preferred delivery."
+      },
+      {
+        "label": "03.",
+        "title": "Field Work",
+        "description": "Let me help manage your assets during production and/or direct an organized execution."
+      }
+    ]
+  }
+}

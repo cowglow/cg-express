@@ -1,0 +1,39 @@
+{
+  "portfolio": {
+    "label": "portfolio",
+    "header": "Sample Work",
+    "timestamp": "2017-10-08T22:05:22.335Z",
+    "content": [
+      {
+        "id": "modal1",
+        "label": "Profile: Handwerkerhof N\u00fcrnberg",
+        "src": "https://player.vimeo.com/video/240069621",
+        "type": "video"
+      },
+      {
+        "id": "modal2",
+        "label": "Lufthansa Spec Project",
+        "src": "https://player.vimeo.com/video/172137451",
+        "type": "video"
+      },
+      {
+        "id": "modal3",
+        "label": "Profile: Alex Cio",
+        "src": "https://player.vimeo.com/video/302853367",
+        "type": "video"
+      },
+      {
+        "id": "modal4",
+        "label": "Music Video: Soft Place",
+        "src": "https://player.vimeo.com/video/34572362",
+        "type": "video"
+      },
+      {
+        "id": "modal5",
+        "label": "Music Video: On Your Side",
+        "src": "https://player.vimeo.com/video/37606007",
+        "type": "video"
+      }
+    ]
+  }
+}

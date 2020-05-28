@@ -1,0 +1,53 @@
+{
+  "about": {
+    "label": "About",
+    "header": "More About Me",
+    "body": "I came to N\u00fcrnberg all the way from Los Angeles back in 2013. For the first 5 years I worked with Raytheon. Certified Final Cut Pro X Editor.",
+    "timestamp": "2017-10-08T22:05:22.335Z",
+    "media": {
+      "type": "image",
+      "filename": "psaa.png",
+      "quote": "@cowglow",
+      "href": "https://twitter.com/cowglow"
+    },
+    "info": {
+      "name": "Philip Saa",
+      "dob": "07 March 1981",
+      "hobbies": "Filmmaking & Music",
+      "residence": "Mittelfranken"
+    },
+    "social": {
+      "twitter": "https://twitter.com/cowglow",
+      "snapchat": "https://www.snapchat.com/add/cowglow",
+      "github": "https://github.com/cowglow",
+      "imdb": "http://www.imdb.com/name/nm4765825/",
+      "vimeo": "https://vimeo.com/k14",
+      "instagram": "https://www.instagram.com/cowglow",
+      "medium": "https://medium.com/@cowglow",
+      "soundcloud": "https://soundcloud.com/cowglow",
+      "youtube": "https://www.youtube.com/user/cowglow"
+    },
+    "skill": [
+      {
+        "label": "Film Production",
+        "value": "(EP MovieMagic)"
+      },
+      {
+        "label": "Audio/Videos Editing",
+        "value": "(FCPX Certified Pro)"
+      },
+      {
+        "label": "Web Development",
+        "value": "(JavaScript and PHP)"
+      },
+      {
+        "label": "Graphic Design",
+        "value": "(Photoshop, Illustrator, Print)"
+      }
+    ],
+    "callback": {
+      "action": "#sectionAbout",
+      "message": "Learn more"
+    }
+  }
+}
