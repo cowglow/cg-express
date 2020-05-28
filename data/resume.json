@@ -6,13 +6,18 @@
     "employment": [
       {
         "label": "Programmer",
+        "dates_employed": "2019 - Present",
+        "body": "Remote front-end developer focusing on component driven development using React JS and Storybook. Proficient in HTML5 and CSS with experience using CSS modules. a11y & i18n enthusiast. With a preference for TypeScript projects."
+      },
+      {
+        "label": "Programmer",
         "dates_employed": "2018 - 2019",
-        "body": "Mercenary PHP coder. Focusing on clean architecture plugins and libraries; becoming increasingly familiar with CI/CD and taking an interest in ally.js. This is the first all German team that I've joined."
+        "body": "Mercenary PHP coder. Focusing on clean architecture plugins and libraries; becoming increasingly familiar with CI/CD and taking an interest in ally.js."
       },
       {
         "label": "Multimedia Specialist",
         "dates_employed": "2013 - 2017",
-        "body": "Responsible for capturing footage, managing media assets, and editing video products for the Joint Multinational Readiness Center (JMRC)"
+        "body": "Provided training support Joint Multinational Readiness Center (JMRC)"
       }
     ],
     "education": [
@@ -33,7 +38,7 @@
       }
     ],
     "callback": {
-      "action": "downloads/Philip_Saa-2018CV.pdf",
+      "action": "https://cowglow.com/downloads/Philip_Saa-2018CV.pdf",
       "message": "Download PDF"
     }
   }
